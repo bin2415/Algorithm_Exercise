@@ -1,0 +1,2 @@
+完全背包问题：
+http://hihocoder.com/problemset/problem/1043
